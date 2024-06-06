@@ -1,4 +1,4 @@
-- Hey 👋 Hi, I’m @ Punith G S Here!
+Hey 👋 Hi, I’m @ Punith G S Here!
 
 
 <!---
