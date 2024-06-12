@@ -8,7 +8,7 @@
 Let's connect on LinkedIn!
 
   ![image](https://github.com/punithgs/punithgs/assets/152014411/9bfa6484-92e4-43c9-bc42-a8e350ba3dc2)
-I'm just an email away! Drop me a message at punith0404gs@gmail.com
+I'm just an email away! Drop me a message at punithgs0404@gmail.com
 
 🌟 Check out what I've been working on during my studies at 
 <!---
