@@ -4,7 +4,8 @@
 
 🌱 Exploring the depths of Information Science and Engineering at JSS Science And Technology University.
 
-  Let's connect on LinkedIn!
+  ![image](https://github.com/punithgs/punithgs/assets/152014411/67401647-f3f0-48d8-85d0-c0652602f09a)
+Let's connect on LinkedIn!
 
   I'm just an email away! Drop me a message at punith0404gs@gmail.com
 
