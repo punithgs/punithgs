@@ -3,13 +3,9 @@
 🚀 Aspiring Software Engineer, Tech enthusiast.
 
 🌱 Exploring the depths of Information Science and Engineering at JSS Science And Technology University.
+<img src="https://skillicons.dev/icons?i=linkedin" width="20px"> &nbsp;Let's connect on *[LinkedIn!](https://www.linkedin.com/in/punith-gs-662483292/)*
 
-  ![image](https://github.com/punithgs/punithgs/assets/152014411/67401647-f3f0-48d8-85d0-c0652602f09a)
-Let's connect on LinkedIn!
-
-  ![image](https://github.com/punithgs/punithgs/assets/152014411/9bfa6484-92e4-43c9-bc42-a8e350ba3dc2)
-I'm just an email away! Drop me a message at punithgs0404@gmail.com
-
+<img src="https://skillicons.dev/icons?i=gmail" width="20px">&nbsp; I'm just an email away! Drop me a message at punithgs@gmail.comg
 
 <!---
 punithgs/punithgs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
