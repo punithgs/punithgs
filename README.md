@@ -1,4 +1,4 @@
--Hey 👋 Hi, I’m @ Punith G S Here!
+<h1>-Hey 👋 Hi, I’m @ Punith G S Here!</h1>
 
 🚀 Aspiring Software Engineer, Tech enthusiast.
 
@@ -7,6 +7,8 @@
 <img src="https://skillicons.dev/icons?i=linkedin" width="20px"> &nbsp;Let's connect on *[LinkedIn!](https://www.linkedin.com/in/punith-gs-662483292/)*
 
 <img src="https://skillicons.dev/icons?i=gmail" width="20px">&nbsp; I'm just an email away! Drop me a message at punithgs0404@gmail.com
+
+🌟 Check out what I've been working on during my studies at *[My Portfolio](https://www.linkedin.com/in/punith-gs-662483292/)*
 
 
 
