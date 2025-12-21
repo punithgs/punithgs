@@ -4,6 +4,33 @@
 
 # 💫 About Me:
 
+<h2>👨‍💻 About Me</h2>
+
+<ul>
+  <li>
+    🔭 I’m currently learning <b>Java Full Stack Development</b>
+  </li>
+  <li>
+    📊 I’m preparing for a <b>Data Analyst role</b>
+  </li>
+  <li>
+    🌱 Improving my skills in <b>Java, SQL, Python, Spring Boot</b>
+  </li>
+  <li>
+    👯 Looking to collaborate on <b>Java & Data Analytics projects</b>
+  </li>
+  <li>
+    💼 Actively seeking <b>Software Developer / Data Analyst jobs</b>
+  </li>
+  <li>
+    💬 Ask me about <b>Java, SQL, Power BI, Git</b>
+  </li>
+  <li>
+    ⚡ Fun fact: I enjoy solving real-world problems using code
+  </li>
+</ul>
+
+
 I'm currently learning JAVA FULL STACK DEVELOPMENT<br>I'm also preparing for a DATA ANALYST ROLE<br>Improving my problem-solving skills, DSA, and real-world project skills<br>I'm looking to collaborate on Java Web Development, and Data Analytics projects<br>Actively seeking Job opportunities in Software Development or Data Analytics<br>Ask me about Java, SQL, JS, Python, Data Analysis, Git & Github
 
 
