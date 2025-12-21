@@ -3,13 +3,7 @@
 🚀 Aspiring Software Engineer, Tech enthusiast.
 
 # 💫 About Me:
-•⁠  ⁠<img src="https://skillicons.dev/icons?i=java" width="20"/> Currently learning *Java Full Stack Development*
-•⁠  ⁠<img src="https://skillicons.dev/icons?i=python" width="20"/> Preparing for a *Data Analyst role*
-•⁠  ⁠<img src="https://skillicons.dev/icons?i=spring" width="20"/> Exploring *Spring Boot & REST APIs*
-•⁠  ⁠<img src="https://skillicons.dev/icons?i=mysql" width="20"/> Working with *SQL & Databases*
-•⁠  ⁠<img src="https://skillicons.dev/icons?i=github" width="20"/> Actively seeking *job opportunities*
-•⁠  ⁠<img src="https://skillicons.dev/icons?i=powerbi" width="20"/> Ask me about *Power BI & Data Visualization*
-•⁠  ⁠⚡ Fun fact: I enjoy debugging more than writing code 😄
+
 I'm currently learning JAVA FULL STACK DEVELOPMENT<br>I'm also preparing for a DATA ANALYST ROLE<br>Improving my problem-solving skills, DSA, and real-world project skills<br>I'm looking to collaborate on Java Web Development, and Data Analytics projects<br>Actively seeking Job opportunities in Software Development or Data Analytics<br>Ask me about Java, SQL, JS, Python, Data Analysis, Git & Github
 
 
