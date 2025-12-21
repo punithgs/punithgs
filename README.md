@@ -30,10 +30,6 @@
   </li>
 </ul>
 
-
-I'm currently learning JAVA FULL STACK DEVELOPMENT<br>I'm also preparing for a DATA ANALYST ROLE<br>Improving my problem-solving skills, DSA, and real-world project skills<br>I'm looking to collaborate on Java Web Development, and Data Analytics projects<br>Actively seeking Job opportunities in Software Development or Data Analytics<br>Ask me about Java, SQL, JS, Python, Data Analysis, Git & Github
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/PunithKumar_GS) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Punith Gs](https://www.linkedin.com/in/punith-gs-662483292/)) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PunithGs0424) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:punithgs0404@gmail.com) 
 
