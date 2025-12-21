@@ -1,8 +1,6 @@
-<h1>-Hey 👋 Hi, I’m @ Punith G S Here!</h1>
+  <align = "center" > <h1>-Hey 👋 Hi, I’m @ Punith G S Here!</h1>
 
 🚀 Aspiring Software Engineer, Tech enthusiast.
-
-# 💫 About Me:
 
 <h2>👨‍💻 About Me</h2>
 
