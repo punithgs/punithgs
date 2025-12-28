@@ -1,6 +1,6 @@
-<h1>-Hey 👋 Hi, I’m @ Punith G S Here!</h1>
+<h1 align = "center">-Hey 👋 Hi, I’m @ Punith G S Here!</h1>
 
-🚀 Aspiring Software Engineer, Tech enthusiast.
+                🚀 Aspiring Software Engineer, Tech enthusiast.
 
 <h2>👨‍💻 About Me</h2>
 
@@ -21,7 +21,7 @@
     💼 Actively seeking <b>Software Developer / Data Analyst jobs</b>
   </li>
   <li>
-    💬 Ask me about <b>Java, SQL, Power BI, Git</b>
+    💬 Ask me about <b>Java, SQL, JavaScript, Github</b>
   </li>
   <li>
     ⚡ Fun fact: I enjoy solving real-world problems using code
