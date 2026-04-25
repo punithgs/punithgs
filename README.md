@@ -1,4 +1,4 @@
-<h1 align = "center">Hey 👋 Hi, I’m @ Punith G S Here!</h1>
+<h1 align = "center">-Hey 👋 Hi, I’m @ Punith G S Here!</h1>
 
 <h3  align = "center"> 🚀 Aspiring Software Engineer, Tech enthusiast. </h3>
 
