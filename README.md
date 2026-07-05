@@ -3,7 +3,6 @@
 <h3  align = "center"> 🚀 Aspiring Software Engineer, Tech enthusiast. </h3>
 
 <h2>👨‍💻 About Me </h2> 
-
 <ul>
   <li>
     🔭 I’m currently learning <b>Java Full Stack Development</b>
